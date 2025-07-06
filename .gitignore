@@ -1,0 +1,5 @@
+# KiCAD files
+*auto*
+*.lck
+*-backups
+*.kicad_prl
