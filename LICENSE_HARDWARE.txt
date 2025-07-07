@@ -1,0 +1,9 @@
+CERN Open Hardware Licence Version 2 - Permissive
+
+This hardware project is licensed under the CERN OHL-P v2.
+
+You may copy, modify, distribute, and make products based on this design, provided you retain attribution to the original author(s) and keep the license and disclaimer intact.
+
+Full license text: https://gitlab.com/ohwr/project/cernohl/-/wikis/Documents/CERN-OHL-version-2
+
+Author: Hosmax
